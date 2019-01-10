@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Daily4-NafisLocalizationApp</string>
+    <string name="computer">কম্পিউটার</string>
+    <string name="food">খাদ্য</string>
+    <string name="cloth">কাপড়</string>
+    <string name="house">গৃহ</string>
+    <string name="internet">ইন্টারনেট</string>
+</resources>

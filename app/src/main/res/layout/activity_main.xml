@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/foodTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/food"
+        style="@style/MyTextViewStyle"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+    <TextView
+        android:id="@+id/clothTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cloth"
+        style="@style/MyTextViewStyle"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+
+    <TextView
+        android:id="@+id/houseTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/house"
+        style="@style/MyTextViewStyle"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+    <TextView
+        android:id="@+id/internetTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/internet"
+        style="@style/MyTextViewStyle"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+    <TextView
+        android:id="@+id/computerTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/computer"
+        style="@style/MyTextViewStyle"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/btnGoToNextActivityId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/go_to_next_activity"/>
+</LinearLayout>

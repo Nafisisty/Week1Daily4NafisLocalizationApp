@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week1Daily4-NafisLocalizationApp</string>
+    <string name="computer" translatable="false">Computer</string>
+    <string name="food" translatable="false">Food</string>
+    <string name="cloth" translatable="false">Cloth</string>
+    <string name="house" translatable="false">House</string>
+    <string name="internet" translatable="false">Internet</string>
+    <string name="go_to_next_activity">Go To Next Activity</string>
+    <string name="instructionText">You have clicked this text in the previous page</string>
+    <string name="go_to_main_activity">Go To Main Activity</string>
+</resources>

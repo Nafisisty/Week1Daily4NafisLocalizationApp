@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Daily4-NafisLocalizationApp</string>
+    <string name="internet" translatable="false">互聯網</string>
+    <string name="food" translatable="false">餐飲</string>
+    <string name="cloth" translatable="false">布</string>
+    <string name="house" translatable="false">屋</string>
+    <string name="computer" translatable="false">電腦</string>
+</resources>

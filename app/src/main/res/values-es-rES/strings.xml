@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Daily4-NafisLocalizationApp</string>
+    <string name="cloth" translatable="false">paño</string>
+    <string name="food" translatable="false">" comida"</string>
+    <string name="house" translatable="false">casa</string>
+    <string name="internet" translatable="false">Internet</string>
+    <string name="computer" translatable="false">computadora</string>
+</resources>
