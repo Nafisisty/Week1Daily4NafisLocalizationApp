@@ -6,4 +6,7 @@
     <string name="cloth">কাপড়</string>
     <string name="house">গৃহ</string>
     <string name="internet">ইন্টারনেট</string>
+    <string name="go_to_next_activity">Go To Next Activity</string>
+    <string name="instructionText">You have clicked this text in the previous page</string>
+    <string name="go_to_main_activity">Go To Main Activity</string>
 </resources>

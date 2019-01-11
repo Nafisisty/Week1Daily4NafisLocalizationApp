@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Week1Daily4-NafisLocalizationApp</string>
-    <string name="computer" translatable="false">ordinateur</string>
-    <string name="food" translatable="false">aliments</string>
-    <string name="house" translatable="false">maison</string>
-    <string name="cloth" translatable="false">tissu</string>
-    <string name="internet" translatable="false">" l'Internet"</string>
+    <string name="computer">ordinateur</string>
+    <string name="food">aliments</string>
+    <string name="house">maison</string>
+    <string name="cloth">tissu</string>
+    <string name="internet">" l'Internet"</string>
+    <string name="go_to_next_activity">Go To Next Activity</string>
+    <string name="instructionText">You have clicked this text in the previous page</string>
+    <string name="go_to_main_activity">Go To Main Activity</string>
 </resources>
